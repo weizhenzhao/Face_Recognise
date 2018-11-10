@@ -1,6 +1,6 @@
 
 
-Real Time Face Recognition demo with django as web framework and python face_recognition part as the back-end
+Real Time Face Recognition demo with django as web framework and python face_recognition part as the back-end (https://github.com/ageitgey/face_recognition)
 
 the recognizing time is less than 2s in the browser
 
